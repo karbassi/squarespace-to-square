@@ -21,5 +21,11 @@
   "bugs": {
     "url": "https://github.com/karbassi/squarespace-to-square/issues"
   },
-  "homepage": "https://github.com/karbassi/squarespace-to-square#readme"
+  "homepage": "https://github.com/karbassi/squarespace-to-square#readme",
+  "dependencies": {
+    "async": "^2.1.2",
+    "html-to-text": "^2.1.3",
+    "request": "^2.79.0",
+    "throttled-request": "^0.1.1"
+  }
 }
