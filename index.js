@@ -24,7 +24,7 @@ const headers = {
 
 const local = true;
 // const jsonUrl = './shop.json';
-const url = 'https://' + STORE_NAME + ".squarespace.com/shop/?format=json';
+const url = 'https://' + STORE_NAME + '.squarespace.com/shop/?format=json';
 
 var shop;
 var categories;
